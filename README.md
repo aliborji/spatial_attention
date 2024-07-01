@@ -18,7 +18,7 @@ Please study the code to understand how the change is implemented. For example, 
 with its previous output and only locations with change in the image are updated. This layer then knows which locations it has updated 
 and from that generates a change map to send to the fist pooling layer and so on and on ...
 
-
+```
 @misc{borji2020objectnet,
     title={ObjectNet Dataset: Reanalysis and Correction},
     author={Ali Borji},
@@ -27,3 +27,4 @@ and from that generates a change map to send to the fist pooling layer and so on
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
