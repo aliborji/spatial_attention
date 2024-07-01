@@ -2,10 +2,15 @@ Addressing a fundamental limitation in deep vision models: lack of spatial atten
 =====================
 July 1, 2024
 
-Minimal code to illustrate the lack of spatial attention in CNNs
+
+Manuscript is avaiable at [Arxiv](https://arxiv.xx).
 
 
-Manuscript is avaiable in [Arxiv](https://arxiv.xx).
+The Proposed Model: 
+
+![model](https://github.com/aliborji/spatial_attention/blob/main/model.png) 
+
+
 
 
 
