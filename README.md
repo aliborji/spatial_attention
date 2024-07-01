@@ -1,4 +1,4 @@
-Addressing a fundamental limitation in deep vision models: lack spatial attention
+Addressing a fundamental limitation in deep vision models: lack of spatial attention
 =====================
 July 1, 2024
 
