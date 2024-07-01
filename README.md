@@ -9,8 +9,10 @@ Manuscript is avaiable in [Arxiv](https://arxiv.xx).
 
 
 
-cnn1.py --> a model that uses F.conv2d
+cnn1.py --> a model that uses F.conv2d 
+
 cnn2.py --> a model that uses sequential conv2d by looping over the image
+
 cnn3.py --> a model that uses sequential conv2d by looping over the image and skipping the location where the has not been a change
 
 First run cnn1.py to train a model (uncomment some lines). Then you can run three CNNs and compare the run time. 
