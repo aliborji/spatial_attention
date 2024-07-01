@@ -17,7 +17,11 @@ and from that generates a change map to send to the fist pooling layer and so on
 
 
 
-
-
-
-
+@misc{borji2020objectnet,
+    title={ObjectNet Dataset: Reanalysis and Correction},
+    author={Ali Borji},
+    year={2020},
+    eprint={2004.02042},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
