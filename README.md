@@ -1,7 +1,11 @@
-# spatial_attention
+Addressing a fundamental limitation in deep vision models: lack of spatial attention in vision models
+=====================
+July 1, 2024
+
 Minimal code to illustrate the lack of spatial attention in CNNs
 
-This code accompanies the following work:
+
+Manuscript is avaiable in [Arxiv](https://arxiv.xx).
 
 
 
@@ -13,8 +17,6 @@ First run cnn1.py to train a model (uncomment some lines). Then you can run thre
 Please study the code to understand how the change is implemented. For example, in cnn3, first conv layer is initialized 
 with its previous output and only locations with change in the image are updated. This layer then knows which locations it has updated 
 and from that generates a change map to send to the fist pooling layer and so on and on ...
-
-
 
 
 @misc{borji2020objectnet,
