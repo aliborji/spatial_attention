@@ -26,11 +26,12 @@ with its previous output and only locations with change in the image are updated
 and from that generates a change map to send to the fist pooling layer and so on and on ...
 
 ```
-@misc{borji2020objectnet,
-    title={ObjectNet Dataset: Reanalysis and Correction},
+@misc{borji2024attention,
+    title={Addressing a fundamental limitation in deep vision
+models: lack of spatial attention},
     author={Ali Borji},
-    year={2020},
-    eprint={2004.02042},
+    year={2024},
+    eprint={2407.01782},
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
