@@ -3,7 +3,7 @@ Addressing a fundamental limitation in deep vision models: lack of spatial atten
 July 1, 2024
 
 
-Manuscript is avaiable at [Arxiv](https://arxiv.xx).
+Manuscript is avaiable at [https://arxiv.xx](https://arxiv.org/pdf/2407.01782v1).
 
 
 The Proposed Model: 
