@@ -4,13 +4,12 @@ July 1, 2024
 
 
 Manuscript is avaiable at [https://arxiv.org/pdf/2407.01782v1](https://arxiv.org/pdf/2407.01782v1).
+-----------
 
 
 The Proposed Model: 
 
 ![model](https://github.com/aliborji/spatial_attention/blob/main/model.png) 
-
-
 
 
 
@@ -24,6 +23,14 @@ First run cnn1.py to train a model (uncomment some lines). Then you can run thre
 Please study the code to understand how the change is implemented. For example, in cnn3, first conv layer is initialized 
 with its previous output and only locations with change in the image are updated. This layer then knows which locations it has updated 
 and from that generates a change map to send to the fist pooling layer and so on and on ...
+
+
+-----------
+
+The DemoSegmenter.ipynb notebook illustrated the main concept behind the second proposed solution based on semantic segmentation.
+
+-----------
+
 
 ```
 @misc{borji2024attention,
